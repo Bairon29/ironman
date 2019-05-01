@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ironman/static/css/main.584f321a.chunk.css",
-    "main.js": "/ironman/static/js/main.05fe2ec7.chunk.js",
-    "main.js.map": "/ironman/static/js/main.05fe2ec7.chunk.js.map",
+    "main.css": "/ironman/static/css/main.50acd2cc.chunk.css",
+    "main.js": "/ironman/static/js/main.61d8484a.chunk.js",
+    "main.js.map": "/ironman/static/js/main.61d8484a.chunk.js.map",
     "runtime~main.js": "/ironman/static/js/runtime~main.e00ef98e.js",
     "runtime~main.js.map": "/ironman/static/js/runtime~main.e00ef98e.js.map",
-    "static/js/2.3310f33a.chunk.js": "/ironman/static/js/2.3310f33a.chunk.js",
-    "static/js/2.3310f33a.chunk.js.map": "/ironman/static/js/2.3310f33a.chunk.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/ironman/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/ironman/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/ironman/index.html",
-    "precache-manifest.d8e3c931561070e930b0cdb4d5ed3fb2.js": "/ironman/precache-manifest.d8e3c931561070e930b0cdb4d5ed3fb2.js",
+    "precache-manifest.9f2c54f22730e9f13d8fffe5a81390ed.js": "/ironman/precache-manifest.9f2c54f22730e9f13d8fffe5a81390ed.js",
     "service-worker.js": "/ironman/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/ironman/static/css/main.584f321a.chunk.css.map"
+    "static/css/main.50acd2cc.chunk.css.map": "/ironman/static/css/main.50acd2cc.chunk.css.map"
   }
 }
