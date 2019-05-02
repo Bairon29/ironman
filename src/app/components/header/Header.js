@@ -2,6 +2,19 @@ import React, { Component} from 'react';
 import './Header.css';
 
 class Header extends Component {
+    constructor(){
+        super();
+        this.state = {
+            mobileMenu: false
+        }
+        this.toggleMenu = this.toggleMenu.bind(this);
+    }
+
+    toggleMenu(){
+        
+        console.log(this.refs)
+    }
+
     render(){
         return (
             <header className="header">
@@ -9,7 +22,7 @@ class Header extends Component {
                     <div className="logo">
                         <h1>IRONMAN</h1>
                     </div>
-                    <nav className="menu">
+                    <nav ref="menu" className="menu">
                         <ul className="menu-items">
                             <li className="menu-single-item">
                                 <a href="#">About</a>
