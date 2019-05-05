@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/ironman/static/css/main.50acd2cc.chunk.css",
-    "main.js": "/ironman/static/js/main.61d8484a.chunk.js",
-    "main.js.map": "/ironman/static/js/main.61d8484a.chunk.js.map",
+    "main.css": "/ironman/static/css/main.7808cc0c.chunk.css",
+    "main.js": "/ironman/static/js/main.36350bf4.chunk.js",
+    "main.js.map": "/ironman/static/js/main.36350bf4.chunk.js.map",
     "runtime~main.js": "/ironman/static/js/runtime~main.e00ef98e.js",
     "runtime~main.js.map": "/ironman/static/js/runtime~main.e00ef98e.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/ironman/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/ironman/static/js/2.65aa1cca.chunk.js.map",
+    "static/js/2.f105d4e9.chunk.js": "/ironman/static/js/2.f105d4e9.chunk.js",
+    "static/js/2.f105d4e9.chunk.js.map": "/ironman/static/js/2.f105d4e9.chunk.js.map",
     "index.html": "/ironman/index.html",
-    "precache-manifest.9f2c54f22730e9f13d8fffe5a81390ed.js": "/ironman/precache-manifest.9f2c54f22730e9f13d8fffe5a81390ed.js",
+    "precache-manifest.bb7d90765298a6a669e6f7dd811a38ae.js": "/ironman/precache-manifest.bb7d90765298a6a669e6f7dd811a38ae.js",
     "service-worker.js": "/ironman/service-worker.js",
-    "static/css/main.50acd2cc.chunk.css.map": "/ironman/static/css/main.50acd2cc.chunk.css.map"
+    "static/css/main.7808cc0c.chunk.css.map": "/ironman/static/css/main.7808cc0c.chunk.css.map",
+    "static/media/iron-man.jpeg": "/ironman/static/media/iron-man.09c0a53b.jpeg",
+    "static/media/robertdowneyjr2.jpg": "/ironman/static/media/robertdowneyjr2.13bdef98.jpg"
   }
 }
