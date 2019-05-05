@@ -64,3 +64,22 @@
 .about .even .about-img {
     order: 1;
 }
+
+@media screen and (max-width: 920px) {
+    .about .about-item {
+        flex-direction: column;
+    }
+    .about .about-item .about-img {
+        width: 85%;
+        order: -1 !important;
+    }
+
+    .about .about-item .about-para {
+        width: 100%;
+        height: auto;
+    }
+
+    .about .about-item .about-para p {
+        font-size: 115%;
+    }
+}

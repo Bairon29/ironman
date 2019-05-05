@@ -55,3 +55,34 @@
     width: 90%;
     line-height: 20px;
 }
+
+@media screen and (max-width: 1024px) {
+    .ironman-projects-container .project {
+        width: 80%;
+        height: auto;
+    }
+    .ironman-projects-container .project .project-info p {
+        font-size: 130%;
+    }
+}
+
+@media screen and (max-width: 779px) {
+    .ironman-projects-container .project .project-info p {
+        font-size: 110%;
+    }
+    .ironman-projects-container .project .project-info {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 559px) {
+    .ironman-projects-container .project {
+        width: 100%;
+        height: auto;
+
+    }
+
+    .ironman-projects-container .project .project-info p {
+        font-size: 110%;
+    }
+}

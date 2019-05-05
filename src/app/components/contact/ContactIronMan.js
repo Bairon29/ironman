@@ -7,21 +7,22 @@ class ContactIronMan extends Component {
   }
   render(){
     return (
-      <section className="contact-ironman">
+      <section className="contact-ironman" id="contact-ironman">
         <div className="contact-form-container">
-            <h1 className="contact-title">Contact IRON MAN</h1>
+            <h1 className="contact-title">Contact</h1>
+            <h1 className="contact-title">IRON MAN</h1>
             <form className="contact-form">
                 <div className="text-field">
-                    <input type="text" firstName="firstName" required/>
+                    <input type="text" placeholder="First Name" name="firstName" required/>
                 </div>
                 <div className="text-field">
-                    <input type="text" firstName="lastName" required/>
+                    <input type="text" placeholder="Last Name" name="lastName" required/>
                 </div>
                 <div className="text-field">
-                    <input type="email" firstName="email" required/>
+                    <input type="email" placeholder="Sample@domain.com" name="email" required/>
                 </div>
                 <div className="text-area">
-                    <textarea></textarea>
+                    <textarea placeholder="Your Message"></textarea>
                 </div>
                 <div className="text-field">
                     <button className="btn">Contact</button>

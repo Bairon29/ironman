@@ -6,7 +6,7 @@ import robert2 from '../../images/robertdowneyjr2.jpg';
 
 function About() {
   return (
-    <section className="about">
+    <section className="about" id="about">
       <div className="about-item odd">
         <div className="about-img">
             <img src={robert1} />

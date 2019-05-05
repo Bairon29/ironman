@@ -9,10 +9,10 @@ class IronManProjects extends Component {
   }
 
   listOfProjects(){
-    var list = projects["robert"].map( project => {
+    var list = projects["robert"].map( (project, i) => {
         console.log('fdvdfbadbd',project)
         return (
-          <div className="project">
+          <div className="project" key={i}>
             <div className="project-banner">
               <img src={require("../../images/" + project["banner"])} />
             </div>
@@ -31,7 +31,8 @@ class IronManProjects extends Component {
   }
   render(){
     return (
-      <section className="ironman-projects-container">
+      <section className="ironman-projects-container" 
+        id="ironman-projects-container">
         {this.listOfProjects()}
       </section>
     );

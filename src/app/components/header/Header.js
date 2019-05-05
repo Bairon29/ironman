@@ -39,21 +39,21 @@ class Header extends Component {
         return (
             <header className="header">
                 <div className="menu-container">
-                    <div className="logo">
-                        <h1>IRON MAN</h1>
+                    <div className="logo" >
+                        <a href="#feature-container"><h1>IRON MAN</h1></a>
                     </div>
                     <nav ref="menu" className="menu" 
                         // style={{display: this.state.mobileMenu  ? 'flex' : 'none'}}
                         >
                         <ul className="menu-items">
                             <li className="menu-single-item">
-                                <a href="#">About</a>
+                                <a href="#about">About</a>
                             </li>
                             <li className="menu-single-item">
-                                <a href="#">Projects</a>
+                                <a href="#ironman-projects-container">Projects</a>
                             </li>
                             <li className="menu-single-item">
-                                <a href="#">Contact</a>
+                                <a href="#contact-ironman">Contact</a>
                             </li>
                         </ul>
                     </nav>
