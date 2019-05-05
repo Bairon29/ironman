@@ -53,6 +53,7 @@
     color: black;
     /* line-height: 25px; */
     width: 80%;
+    font-size: 95%;
     margin: 10px auto;
     text-align: center;
 }
@@ -64,8 +65,7 @@
 .about .even .about-img {
     order: 1;
 }
-
-@media screen and (max-width: 920px) {
+@media screen and (max-width: 1024px) {
     .about .about-item {
         flex-direction: column;
     }
@@ -80,6 +80,11 @@
     }
 
     .about .about-item .about-para p {
-        font-size: 115%;
+        font-size: 150%;
+    }
+}
+@media screen and (max-width: 420px) {
+    .about .about-item .about-para p {
+        font-size: 97%;
     }
 }
