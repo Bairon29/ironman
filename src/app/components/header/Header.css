@@ -4,6 +4,7 @@
     padding: 0;
     margin: 0;
     position: relative;
+    z-index: 3;
 }
 
 .header .menu-container {
@@ -18,6 +19,7 @@
     background-color: rgba(203, 58, 54, 1);
 }
 
+/* .header .menu-container .menu-icon, */
 .header .menu-container .menu-icon {
     display: none;
     padding: 20px;
@@ -34,10 +36,12 @@
     padding: 0 0 0 30px;
     margin: 0;
     color: rgba(211, 184, 141, 1);
+    cursor: pointer;
 }
 
 .header .menu-container .menu,
 .header .menu-container .menu .menu-items {
+    display: flex;
     flex-grow: 2;
     height: 100%;
     padding: 0;
@@ -64,24 +68,70 @@
 .header .menu-container .menu .menu-items .menu-single-item a {
     text-decoration: none;
     color: rgba(211, 184, 141, 1);
+    font-weight: bold;
     font-size: 120%;
     padding: 20px 30px;
     margin: 0;
     transition-property: background-color color;
-    transition-duration: 1.5s;
+    transition-duration: 0.8s;
 }
 
 .header .menu-container .menu .menu-items .menu-single-item a:hover {
     background-color: rgba(211, 184, 141, 1);
-    color: rgba(36, 34, 31, 1);
+    color: rgba(203, 58, 54, 1);
+    /* rgba(36, 34, 31, 1); */
 }
 
 @media screen and (max-width: 700px) {
-    .header .menu-container .menu-icon {
+    /* .header .menu-container .menu-icon {
         display: inline;
-        
+        color: rgba(211, 184, 141, 1);
+        cursor: pointer;
+    } */
+    .header .menu-container .menu-icon {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        align-content: center;
+        cursor: pointer;
+        z-index: 3;
+        height: 25px;
+        width: 36px;
+        margin: 0;
+        padding: 10px;
+        transition-property: justify-content;
+        transition-duration: .6s;
     }
 
+    .header .menu-container .menu-icon:hover {
+        justify-content: center;
+    }
+
+    .header .menu-container .menu-icon hr {
+        width: 98%;
+        height: 3px;
+        margin: 0;
+        padding: 0%;
+        background-color: rgba(211, 184, 141, 1);
+        border: none;
+        transition-property: display, transform;
+        transition-duration: .6s;
+    }
+    .header .menu-container .menu-icon:hover .menu-icon-bar1 {
+        position: relative;
+        /* top: 20px; */
+        transform: rotate(50deg);
+    }
+    .header .menu-container .menu-icon:hover .menu-icon-bar2 {
+        position: relative;
+        /* bottom: -35px; */
+        transform: rotate(-45deg);
+    }
+    .header .menu-container .menu-icon:hover .menu-icon-bar3 {
+        display: none;
+    }
+    
     .header .menu-container .menu {
         position: absolute;
         display: none;
@@ -89,12 +139,12 @@
         align-items: center;
         transition-property: display;
         transition-duration: 2s;
+        /* z-index: 2; */
     }
 
     .header .menu-container .menu .menu-items {
-        
         position: relative;
-        z-index: 2;
+        /* z-index: 2; */
         justify-content: space-between;
         align-items: center;
         flex-direction: column;
@@ -117,7 +167,7 @@
     }
 
     .header .menu-container .menu .menu-items .menu-single-item a {
-        color: rgba(36, 34, 31, 1);
+        color: rgba(203, 58, 54, 1);
         padding: 0;
         display: block;
         width: 100%;
@@ -131,6 +181,6 @@
     }
     .header .menu-container .menu .menu-items .menu-single-item a:hover {
         background-color: rgba(203, 58, 54, 1);
-        
+        color: rgba(211, 184, 141, 1);
     }
 }
