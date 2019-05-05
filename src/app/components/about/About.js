@@ -6,7 +6,7 @@ import robert2 from '../../images/robertdowneyjr2.jpg';
 
 function About() {
   return (
-    <session className="about">
+    <section className="about">
       <div className="about-item odd">
         <div className="about-img">
             <img src={robert1} />
@@ -33,7 +33,7 @@ function About() {
             </p>
         </div>
       </div>
-    </session>
+    </section>
   );
 }
 
