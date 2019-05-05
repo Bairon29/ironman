@@ -1,0 +1,76 @@
+{
+    "robert": [
+        {
+            "title": "Sherlock Holmes: A Game of Shadows",
+            "year": 2011,
+            "banner": "../../images/sherlockholmes.jpg",
+            "length": "129 minutes",
+            "box-office": "545.4 million",
+            "short-desc": "Sherlock Holmes: A Game of Shadows is a 2011 period action mystery film directed by Guy Ritchie and produced by Joel Silver, Lionel Wigram, Susan Downey, and Dan Lin. It is the sequel to the 2009 film Sherlock Holmes, and features the Sherlock Holmes and Dr. John Watson characters created by Sir Arthur Conan Doyle. The film's screenplay was written by Michele Mulroney and Kieran Mulroney. Robert Downey Jr. and Jude Law reprise their roles as Holmes and Watson, and were joined by Noomi Rapace as Simza, Stephen Fry as Mycroft Holmes, and Jared Harris as Professor Moriarty. Although the film follows an original premise, it incorporates elements of Conan Doyle's short stories 'The Final Problem' and 'The Adventure of the Empty House'.[4] In the film, Holmes and Watson travel across Europe with a Gypsy adventuress to foil an intricate plot by their cunning nemesis, Professor Moriarty, to instigate a war."
+        },
+        {
+            "title": "The Avengers",
+            "year": 2012,
+            "banner": "../../images/avengers.jpeg",
+            "length": "143 minutes",
+            "box-office": "1.519 billion",
+            "short-desc": "Marvel's The Avengers (classified under the name Marvel Avengers Assemble in the United Kingdom and Ireland), or simply The Avengers, is a 2012 American superhero film based on the Marvel Comics superhero team of the same name, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sixth film in the Marvel Cinematic Universe (MCU). The film was written and directed by Joss Whedon and features an ensemble cast that includes Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, and Jeremy Renner as the titular Avengers team, alongside Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgard, and Samuel L. Jackson. In the film, Nick Fury, director of the spy agency S.H.I.E.L.D., recruits Tony Stark, Steve Rogers, Bruce Banner, and Thor to form a team that must stop Thor's brother Loki from subjugating Earth."
+        },
+        {
+            "title": "Iron Man 3",
+            "year": 2013,
+            "banner": "../../images/Iron_Man_3.jpg",
+            "length": "131 minutes",
+            "box-office": "1.215 billion",
+            "short-desc": "Iron Man 3 (stylized onscreen as Iron Man Three) is a 2013 American superhero film based on the Marvel Comics character Iron Man, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to 2008's Iron Man and 2010's Iron Man 2, and the seventh film in the Marvel Cinematic Universe (MCU). The film was directed by Shane Black from a screenplay he co-wrote with Drew Pearce, and stars Robert Downey Jr. as Tony Stark / Iron Man, alongside Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Stéphanie Szostak, James Badge Dale, Jon Favreau, and Ben Kingsley. In Iron Man 3, Tony Stark wrestles with the ramifications of the events of The Avengers, during a national terrorism campaign on the United States led by the mysterious Mandarin."
+        },
+        {
+            "title": "The Judge",
+            "year": 2014,
+            "banner": "../../images/the-judge.jpg",
+            "length": "141 minutes",
+            "box-office": "84.4 million",
+            "short-desc": "The Judge is a 2014 American legal drama film directed by David Dobkin. The film stars Robert Downey Jr., Robert Duvall, Vera Farmiga, Vincent D'Onofrio, Jeremy Strong, Dax Shepard and Billy Bob Thornton. The film was released in the United States on October 10, 2014. It received mixed reviews; critics praised the performances of Duvall and Downey as well as Thomas Newman's score, but criticized the formulaic nature of its script and the lack of development for its supporting characters."
+        },
+        {
+            "title": "Avengers: Age of Ultron",
+            "year": 2015,
+            "banner": "../../images/avengers-age-of-ultron.jpeg",
+            "length": "141 minutes",
+            "box-office": "1.405 billion",
+            "short-desc": "Avengers: Age of Ultron is a 2015 American superhero film based on the Marvel Comics superhero team the Avengers, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to 2012's The Avengers and the eleventh film in the Marvel Cinematic Universe (MCU). The film was written and directed by Joss Whedon and features an ensemble cast that includes Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner, Don Cheadle, Aaron Taylor-Johnson, Elizabeth Olsen, Paul Bettany, Cobie Smulders, Anthony Mackie, Hayley Atwell, Idris Elba, Stellan Skarsgård, James Spader, and Samuel L. Jackson. In the film, the Avengers fight Ultron, an artificial intelligence obsessed with causing human extinction."
+        },
+        {
+            "title": "Captain America: Civil War",
+            "year": 2016,
+            "banner": "../../images/civil-war.jpg",
+            "length": "147 minutes",
+            "box-office": "1.153 billion",
+            "short-desc": "Captain America: Civil War is a 2016 American superhero film based on the Marvel Comics character Captain America, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to 2011's Captain America: The First Avenger and 2014's Captain America: The Winter Soldier, and the thirteenth film in the Marvel Cinematic Universe (MCU). The film is directed by Anthony and Joe Russo, with a screenplay by the writing team of Christopher Markus and Stephen McFeely, and stars Chris Evans as Steve Rogers / Captain America, alongside an ensemble cast including Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Don Cheadle, Jeremy Renner, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Paul Rudd, Emily VanCamp, Tom Holland, Frank Grillo, William Hurt, and Daniel Brühl. In Captain America: Civil War, disagreement over international oversight of the Avengers fractures them into opposing factions—one led by Steve Rogers and the other by Tony Stark."
+        },
+        {
+            "title": "Spider-Man: Homecoming",
+            "year": 2017,
+            "banner": "../../images/spider-man.jpg",
+            "length": "133 minutes",
+            "box-office": "880.2 million",
+            "short-desc": "Spider-Man: Homecoming is a 2017 American superhero film based on the Marvel Comics character Spider-Man, co-produced by Columbia Pictures and Marvel Studios, and distributed by Sony Pictures Releasing. It is the second Spider-Man film reboot and the sixteenth film in the Marvel Cinematic Universe (MCU). The film is directed by Jon Watts, from a screenplay by the writing teams of Jonathan Goldstein and John Francis Daley, Watts and Christopher Ford, and Chris McKenna and Erik Sommers. Tom Holland stars as Peter Parker / Spider-Man, alongside Michael Keaton, Jon Favreau, Zendaya, Donald Glover, Tyne Daly, Marisa Tomei, and Robert Downey Jr. In Spider-Man: Homecoming, Peter Parker tries to balance high school life with being Spider-Man, while facing the Vulture."
+        },
+        {
+            "title": "Avengers: Infinity War",
+            "year": 2018,
+            "banner": "../../images/AVENGER-infinity.jpg",
+            "length": "149 minutes",
+            "box-office": "2.048 billion",
+            "short-desc": "Avengers: Infinity War is a 2018 American superhero film based on the Marvel Comics superhero team the Avengers, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to 2012's The Avengers and 2015's Avengers: Age of Ultron, and the nineteenth film in the Marvel Cinematic Universe (MCU). The film is directed by Anthony and Joe Russo, written by Christopher Markus and Stephen McFeely, and features an ensemble cast including Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Benedict Cumberbatch, Don Cheadle, Tom Holland, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Anthony Mackie, Sebastian Stan, Danai Gurira, Letitia Wright, Dave Bautista, Zoe Saldana, Josh Brolin, and Chris Pratt. In the film, the Avengers and the Guardians of the Galaxy attempt to stop Thanos from amassing the all-powerful Infinity Stones in an effort to wipe out half of all life in the universe."
+        },
+        {
+            "title": "Avengers: Endgame",
+            "year": 2019,
+            "banner": "../../images/endgame.JPG",
+            "length": "181 minutes",
+            "box-office": "2.189 billion",
+            "short-desc": "Avengers: Endgame is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to 2012's The Avengers, 2015's Avengers: Age of Ultron and 2018's Avengers: Infinity War, and the 22nd film in the Marvel Cinematic Universe (MCU), serving as the conclusion to the Infinity Saga. The film is directed by Anthony and Joe Russo, written by Christopher Markus and Stephen McFeely and features an ensemble cast including Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan, Danai Gurira, Bradley Cooper, and Josh Brolin. In the film, the surviving members of the Avengers and their allies travel through the quantum realm to reverse the damage caused by Thanos in Infinity War."
+        }
+    ]
+}
